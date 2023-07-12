@@ -1,7 +1,7 @@
-Esta es la biografia de mi madre
-Se llama Saira
-Tiene 50 años
-Es muy atenta
-Es la mejor del mundo
-Sabe cocinar muy bien
-Es muy amable
+Esta es la biografia de mi madre.
+Se llama Saira.
+Tiene 50 años.
+Es muy atenta.
+Es la mejor del mundo.
+Sabe cocinar muy bien.
+Es muy amable.
