@@ -29,3 +29,33 @@ Con un “imprimir” te lo digo
 Con un ciclo “for” te lo repito
 Y Con un “if” te lo ratifico
 Soy feliz, soy programador, a eso me dedico.
+
+Con algoritmos y estructuras de datos,
+mi mente se llena de entusiasmo y encantos.
+Con listas, pilas y colas en acción,
+doy vida a soluciones con precisión.
+
+En bucles y funciones encuentro mi esencia,
+iterando y ejecutando con paciencia.
+La lógica se entrelaza en cada línea,
+resolviendo problemas, creando la magia mía.
+
+En el mundo de los frameworks y librerías,
+exploro posibilidades, innovo en mis días.
+Con CSS y HTML diseño el aspecto,
+y JavaScript le da interacción y efecto.
+
+La comunidad de desarrolladores,
+unidos por un propósito, grandes creadores.
+Compartimos conocimiento y colaboramos,
+mejorando juntos, avanzamos y prosperamos.
+
+Con cada error y desafío que enfrento,
+aprendo, mejoro y nunca me atormento.
+La resiliencia es mi motor y mi poder,
+perseverancia y determinación para vencer.
+
+En el vasto universo de la programación,
+exploro, aprendo y evoluciono sin razón.
+El código es mi lenguaje, mi voz y pasión,
+soy programador, mi alma encuentra su canción.
